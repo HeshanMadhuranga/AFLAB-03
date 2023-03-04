@@ -7,3 +7,7 @@ const myPromise = new Promise((resolve, reject) => {
 });
 
 myPromise.then((result) => console.log(result)).catch((error) => console.log(error));
+
+module.export = {
+  myPromise,
+};
