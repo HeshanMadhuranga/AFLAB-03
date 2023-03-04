@@ -7,3 +7,4 @@ async function myasynfunction() {
     console.log(error);
   }
 }
+myasynfunction();
