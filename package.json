@@ -1,0 +1,19 @@
+{
+  "name": "aflab-03",
+  "version": "1.0.0",
+  "description": "lab practise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeshanMadhuranga/AFLAB-03.git"
+  },
+  "author": "heshan madhuranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeshanMadhuranga/AFLAB-03/issues"
+  },
+  "homepage": "https://github.com/HeshanMadhuranga/AFLAB-03#readme"
+}
